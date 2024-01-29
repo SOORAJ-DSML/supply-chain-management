@@ -7,7 +7,7 @@ supply. Where the demand is high, supply is pretty low and vice-versa which resu
 inventory cost and ultimately loss to the company. Hence, the higher management wants to
 optimize the supply quantity in each and every warehouse in the entire country.
 
-
+uiiuk
 
 
 *Best Maching Learning Models:
