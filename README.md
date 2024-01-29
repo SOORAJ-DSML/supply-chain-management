@@ -7,6 +7,8 @@ supply. Where the demand is high, supply is pretty low and vice-versa which resu
 inventory cost and ultimately loss to the company. Hence, the higher management wants to
 optimize the supply quantity in each and every warehouse in the entire country.
 
+Data Visualization 
+
 ![Screenshot (12)](https://github.com/SOORAJ-DSML/supply-chain-management/assets/133573084/dc6522a1-c813-4aa1-b758-f05dfc3d2c24)
 
 
