@@ -1,5 +1,5 @@
 # supply-chain-management
-OVERVIEW
+*OVERVIEW
 
 A Fast Moving Consumer Goods (FMCG) company entered into the instant noodles business two
 years back. Their higher management has noticed that there is a mismatch in the demand and
@@ -10,7 +10,7 @@ optimize the supply quantity in each and every warehouse in the entire country.
 
 
 
-Best Maching Learning Models:
+*Best Maching Learning Models:
 
 Gradient Boosting Regressor:
 
