@@ -17,15 +17,11 @@ Data visualization
 ![Screenshot (22)](https://github.com/SOORAJ-DSML/supply-chain-management/assets/133573084/ec4f6c46-87be-442b-950f-7aafae3106a6)
 ![Screenshot (29)](https://github.com/SOORAJ-DSML/supply-chain-management/assets/133573084/0eb56fbb-393c-4238-a556-afaa09ceffc6)
 
+Machine Learning Models:
+
 
 *Best Maching Learning Models:
 
-Gradient Boosting Regressor:
+Gradient Boosting Regressor
 
-Evaluation metrics for the training set:
 
-Mean_Absolute_Error: 659.7994383296668
-
-Mean_Squared_Error: 790191.2786292969
-
-R2_scores: 0.9941809750432895
