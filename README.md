@@ -19,6 +19,8 @@ Data visualization
 
 Machine Learning Models:
 
+![Screenshot (27)](https://github.com/SOORAJ-DSML/supply-chain-management/assets/133573084/f909dd48-d24f-4b5f-904d-4d8ff239a777)
+![Screenshot (25)](https://github.com/SOORAJ-DSML/supply-chain-management/assets/133573084/a29d9ca7-ec39-4e92-b1a5-5002ded3f558)
 
 *Best Maching Learning Models:
 
