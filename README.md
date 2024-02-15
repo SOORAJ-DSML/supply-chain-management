@@ -24,6 +24,6 @@ Machine Learning Models:
 
 *Best Maching Learning Models:
 
-Gradient Boosting Regressor
+XGBRegressor
 
 
