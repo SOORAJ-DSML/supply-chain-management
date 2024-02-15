@@ -16,6 +16,7 @@ Data visualization
 ![Screenshot (21)](https://github.com/SOORAJ-DSML/supply-chain-management/assets/133573084/e6a748f4-261f-41c3-9acc-b39729b9153c)
 ![Screenshot (22)](https://github.com/SOORAJ-DSML/supply-chain-management/assets/133573084/ec4f6c46-87be-442b-950f-7aafae3106a6)
 ![Screenshot (29)](https://github.com/SOORAJ-DSML/supply-chain-management/assets/133573084/0eb56fbb-393c-4238-a556-afaa09ceffc6)
+![Screenshot (31)](https://github.com/SOORAJ-DSML/supply-chain-management/assets/133573084/9ecd0afb-024d-4cb6-aa0b-96e64a51f162)
 
 Machine Learning Models:
 
